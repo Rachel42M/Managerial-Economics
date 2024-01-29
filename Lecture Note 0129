@@ -3,12 +3,15 @@ Subject: AAE 625 Lecture 2 (Week 2)
 
 worldmrio.com
 The Eora Global Supply Chain Database
+- Python codes
+- data too complicated and too large - use python to limit years
+- selenium: log in website
 
 Learning Objectives
 
 
 How to develop a model
-- what's your goal? clear questions
+- what's your goal? clear questions, scope of your model
 - hypothesis: educated guess/answer to your question
 ex. limited demand, etc
 - Next: how to use empirical studies and models to validate your hypothesis
@@ -19,4 +22,20 @@ ex. limited demand, etc
   ex. supply turns out to be not limited
 - wrong is NOT wrong
 quantative analysis - to support decision making
+
+Mini-case: Income threshold model
+- only use income - car purchasing behavior
+- neglected factors - important or not
+- Occam's razor vs Blore's razor
+
+*If historical data disagrees - the theory is WRONG
+good model - clear and consistent with reality
+if simple model makes clear prediction + realistis enough, great!
+sophisticated model but wrong? Nah
+
+Statements
+Theory
+Evolving continuously
+
+
 

@@ -1,0 +1,59 @@
+Homework Assignment: GitHub Setup and Introduction to Version Control
+Due Feb 5 by 11:59pm Points 5 Submitting a text entry box or a website url
+
+Objective:
+
+This assignment aims to introduce you to the fundamentals of version control using GitHub and GitHub Desktop. You will
+
+set up a GitHub account,
+create a repository named "Managerial Economics,"
+download GitHub Desktop, and
+use it to upload a code or text file to your repository.
+This task will help you understand how GitHub can be used for tracking changes and collaborating on projects.
+
+Instructions:
+
+Set Up Your GitHub Account:
+If you haven't already, visit GitHub and sign up for a new account.
+Complete the sign-up process and verify your email address as instructed.
+ 
+
+Create a New Repository:
+After logging in to GitHub, create a new repository, name your repository "ManagerialEconomics" and choose whether it will be public or private.
+Initialize the repository with a README file by checking the appropriate box.
+Upload a simple text file or a basic code file (e.g., .py for Python, .R for R).
+ 
+
+Download and Install GitHub Desktop:
+Go to the GitHub Desktop download page and download the version for your operating system. Follow the installation instructions to install GitHub Desktop on your computer.
+Clone your repository using GitHub desktop:
+Open GitHub Desktop and sign in with your GitHub credentials.
+Go to File > Clone Repository, find your "Managerial Economics" repository, and clone it to a local path on your computer.
+Add some content to your file, such as a comment or a simple code snippet.
+Edit your File Using GitHub Desktop:
+Open GitHub Desktop; it should automatically detect the new file as an uncommitted change in your repository.
+Add a summary of the change (e.g., "Added initial code file") and optionally a more detailed description.
+Commit the change to your repository by clicking on Commit to main.
+Push your commit to GitHub by clicking on Push origin to upload your changes to the online repository.
+ 
+
+Submit the URL of your "Managerial Economics" GitHub repository via Canvas. Ensure the repository contains the new file you added.
+ 
+
+Understanding Change Tracking:
+
+GitHub tracks changes to files by taking snapshots of your repository at each commit. This allows you to:
+
+View Changes: See what changes were made, who made them, and when.
+Compare Versions: Look at differences between file versions to understand modifications.
+Revert Changes: If needed, you can revert to previous versions of files or the entire project.
+Submission:
+Deadline: Feb 4, 2024 Sunday 11:59 pm
+
+Assessment Criteria:
+
+Successful creation of a GitHub account and repository.
+Upload a file using the webpage
+Proper installation and setup of GitHub Desktop.
+Successful upload of a new file to the repository,
+Demonstrating an understanding of basic version control concepts.

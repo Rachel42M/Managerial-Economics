@@ -1,3 +1,46 @@
 Date: Wednesday, Jan 31, 2024
 Subject: AAE 625 Lecture 3 (Week 2)
 
+Housekeeping & Recap
+- see slides after posting
+
+Excel
+- stock
+- dynamic title
+
+SQL
+- studio, server
+- OECD
+- top 1000 rows
+- use query to create subsets
+* much more efficient
+ex. select * where time = 2011 and [From_sector in row]='Agriculture, forestry, and ...'
+
+Connection 
+- between Excel and SQL, or other external sources
+- definition - command text
+
+SQL Keywords (see slides updated after class)
+- CREATE, SELECT, INSERT, ALTER, DROP&DELETE, UPDATE
+- MOST Popular: SELECT, FROM, WHERE
+
+ex. 
+SELECT var, Variable, cou, Country, value
+  FROM [OECD2020L].[OECD].[IndustryServices_IO]
+  where time = 2011 and [From_sector in row]='Agriculture, forestry, and ...'
+
+* columns = fields ; rows = records
+
+SQL - See reference links in slides
+- w3schools
+- 1keydata
+- tutorialspoint
+
+Microsoft - data security
+
+
+
+
+
+
+

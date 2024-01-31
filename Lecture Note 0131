@@ -23,11 +23,14 @@ Connection
 SQL Keywords (see slides updated after class)
 - CREATE, SELECT, INSERT, ALTER, DROP&DELETE, UPDATE
 - MOST Popular: SELECT, FROM, WHERE
+- Basic calculations 
 
 ex. 
-SELECT var, Variable, cou, Country, value
+SELECT var, Variable, cou, Country, Value as Yield
   FROM [OECD2020L].[OECD].[IndustryServices_IO]
-  where time = 2011 and [From_sector in row]='Agriculture, forestry, and ...'
+  WHERE time = 2011 
+    AND [From_sector in row]='Agriculture, forestry, and ...'
+  ORDER by year, FIPS
 
 * columns = fields ; rows = records
 
@@ -37,6 +40,28 @@ SQL - See reference links in slides
 - tutorialspoint
 
 Microsoft - data security
+
+Data Warehouse
+- ETL Process
+- Warehouse: SQL
+- Modeling, analysis, visualization
+
+Decision Support Systems (DSS)
+- see diagrams
+
+Business Analytics
+- descriptive
+- predictive
+- prescriptive **** what should be done - optimization
+
+*domain knowledge importance
+
+Examples:
+https://www.tableau.com/sites/default/files/case-studies/silvaris-business-dashboards_0.pdf
+
+Github
+- create account if you haven't
+
 
 
 

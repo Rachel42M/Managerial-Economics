@@ -1,14 +1,12 @@
 Homework Assignment: GitHub Setup and Introduction to Version Control
-Due Feb 5 by 11:59pm Points 5 Submitting a text entry box or a website url
+Due Feb 5 by 11:59pm Points 5 
+
+Submitting a text entry box or a website url
 
 Objective:
 
-This assignment aims to introduce you to the fundamentals of version control using GitHub and GitHub Desktop. You will
+This assignment aims to introduce you to the fundamentals of version control using GitHub and GitHub Desktop. You will set up a GitHub account, create a repository named "Managerial Economics," download GitHub Desktop, and use it to upload a code or text file to your repository.
 
-set up a GitHub account,
-create a repository named "Managerial Economics,"
-download GitHub Desktop, and
-use it to upload a code or text file to your repository.
 This task will help you understand how GitHub can be used for tracking changes and collaborating on projects.
 
 Instructions:
@@ -47,6 +45,7 @@ GitHub tracks changes to files by taking snapshots of your repository at each co
 View Changes: See what changes were made, who made them, and when.
 Compare Versions: Look at differences between file versions to understand modifications.
 Revert Changes: If needed, you can revert to previous versions of files or the entire project.
+
 Submission:
 Deadline: Feb 4, 2024 Sunday 11:59 pm
 

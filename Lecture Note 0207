@@ -1,5 +1,45 @@
 Github
 https://education.github.com/pack
 Github desktop --> commit (change to history) --> fetch origin
-Branches *beware of missing files
+Branches 
+* beware of missing files
+* importance of backup
 
+-------------------
+
+CASE STUDY: Australia Iron Ore Industry
+- hired many economists
+- checked elasticity (around -0.2)
+- why don't increase price?
+
+Each Quarter: ~0.2 billion tons
+At price $50/ton --> 10 billion
+$150/ton --> 30 billion * twenty billion increase / quarter
+
+After 2021, price decreased as demand in China decreased, back to ~$80/ton
+China steel production --> iron ore prices
+Price Demand drop --> due to irl change of demand, only focus on two variables here
+When things not in the P/Q curve change, they change the whole situation
+
+Elasticity 
+- time frame is extremely important
+- important to know WHY as well
+
+-------------------
+
+CASE STUDY: Philip Morris
+1993 Cigarette price cut by 18%
+Sale increases by 12.5%, Profits fell by 25%
+
+Price elasticity of demand: % change of Q/ % change of P = 12.5/(-18) = -0.694
+As this demand is inelastic, decreasing price will decrease firm revenue
+
+Table 2.4: Own Price Elasticities of Demand, Selected Goods, and Services from Global Locations (page 44)
+
+-------------------
+
+Market Demand (continued from Lecture 0205)
+
+Github: Excel (csv vs xlsx files)
+- seperaters (ex. , or |)
+- clone repository or fork

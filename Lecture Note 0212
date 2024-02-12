@@ -2,12 +2,13 @@ Python
 Anaconda
 IDE
 
-1) Pychunk
+1) Pychunk: https://pypi.org/project/pychunk/
 - data frame (terminology)
 - ctrl+v drop down menu
 
-2) VS code (Visual Studio)
+2) VS code (Visual Studio): https://code.visualstudio.com/docs/languages/python
 - more familiar to R Studio
+- need to install packages
 
 Today: Python
 - basic codes, most popular commands
@@ -15,5 +16,45 @@ Today: Python
 
 ChatGPT - can be installed as extension
 
+All can improve efficiency significantly
+
 Elasticity
+ChatGPT can output codes quickly
+If there's any problem, send error message to GPT
+
+------------
+
+Demand Theory (continued)
+
+Elasticity
+
+Demand elasticity: % Change of Quantity demanded given % Change of another factor
+
+Own-Price Elasticity of Demand = %ΔQ/%ΔP = (ΔQ/Q)/(ΔP/P) = (P/Q)*(ΔQ/ΔP)
+
+Excel practice
+
+*Important: Elasticity is not constant along a linear demand, due to change of ratio of Quantity/Price, despite constant slope
+
+< -1: Elastic
+-1: Unitary
+> -1: Inealstic
+
+Point Elasticity: 
+When the change is not marginal (ex. 1.5 to 2, change is 1/3), it goes against the very principle of elasticity
+
+In the future, with real world date, be careful with the information you have
+
+* Importance of derivatives: dQ/dP = beta_1 --> better estimate for elasticity
+lim_(h->0) \frac{f(p+h)-f(p)}{h} --> estimates the marginal effect
+
+
+
+
+
+
+
+
+
+
 
